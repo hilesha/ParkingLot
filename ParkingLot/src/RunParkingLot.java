@@ -65,7 +65,7 @@ public class RunParkingLot {
 				}
 
 			}
-			System.exit(1);
+			System.exit(2);
 		}
 		else {
 			Scanner scan = new Scanner(System.in);
